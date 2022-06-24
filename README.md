@@ -5,7 +5,7 @@
 
 <p align="center">BlinkTrade Documentation</p>
 
-# [Read Online](https://blinktrade.com/docs)
+# [Read Online](https://bitcoinvietnam.github.io/vbtc-docs)
 
 > Generated with [Slate](https://github.com/lord/slate)
 
